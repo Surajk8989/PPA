@@ -7,15 +7,15 @@ int main()
     int c = 10;
     int d = 10;
 
-    a++;
-    ++b;
+    a++;    //Increment
+    ++b;    //Increment
 
-    c--;
-    --d;
+    c--;    //Decrement
+    --d;    //Decrement
     
     printf("%d\n", a);
     printf("%d\n", b);
-    
+
     printf("%d\n", c);
     printf("%d\n", d);
     return 0;
